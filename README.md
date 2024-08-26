@@ -101,4 +101,3 @@ An example of the `movie.txt` file format:
 ## Contact
 
 For any questions or issues, please [contact!](mailto:melekncci@gmail.com).
-```
